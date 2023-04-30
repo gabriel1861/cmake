@@ -16,7 +16,7 @@ include(BuildInfo)
 
 add_subdirectory(external)
 
-add_subdirectory(src)
+add_subdirectory(main)
 
 add_subdirectory(docs)
 
