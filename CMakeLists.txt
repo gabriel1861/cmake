@@ -18,6 +18,7 @@ add_subdirectory(main)
 
 add_subdirectory(docs)
 
-add_subdirectory(example/spdlog)
+add_subdirectory(examples/spdlog)
+add_subdirectory(examples/benchmark)
 
 add_subdirectory(packaging)

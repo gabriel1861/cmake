@@ -1,5 +1,5 @@
-{
-  "cmake.debugConfig": {
-    "args": ["CMake Tools: "]
-  }
-}
+// {
+//   "cmake.debugConfig": {
+//     "args": ["CMake Tools: "]
+//   }
+// }
