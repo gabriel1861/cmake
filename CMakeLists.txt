@@ -14,12 +14,10 @@ project(cmake
 list(APPEND CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake")
 include(BuildInfo)
 
-add_subdirectory(external)
-
 add_subdirectory(main)
 
 add_subdirectory(docs)
 
-add_subdirectory(test)
+add_subdirectory(example/spdlog)
 
 add_subdirectory(packaging)
