@@ -1,0 +1,4 @@
+[2023-05-07 13:39:37.136] [file_logger] [warning] Easy padding in numbers like 00000012
+[2023-05-07 13:39:37.136] [file_logger] [critical] Support for int: 42; hex: 2a; oct: 52; bin: 101010
+[2023-05-07 15:23:42.754] [file_logger] [warning] Easy padding in numbers like 00000012
+[2023-05-07 15:23:42.754] [file_logger] [critical] Support for int: 42; hex: 2a; oct: 52; bin: 101010

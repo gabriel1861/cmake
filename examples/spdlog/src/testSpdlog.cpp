@@ -8,7 +8,7 @@ int main(){
   spdlog::error("Some error message with arg: {}", 1);
 
   // 只显示warn以及比warn更高级的信息
-  spdlog::set_level(spdlog::level::warn);
+  spdlog::set_level(spdlog::level::debug);
   spdlog::warn("Easy padding in numbers like {:08d}", 12);
   spdlog::critical("Support for int: {0:d}; hex: {0:x}; oct: {0:o}; bin: {0:b}", 42);
   spdlog::info("Support for floats {:03.2f}", 1.23456);
